@@ -3,9 +3,6 @@
 <h1 align="center">👋, I'm Akash C </h1>
 <h3 align="center">A passionate Data Scientist Hi there 👋
 
-<h1 align="center">👋, I'm Akash C</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarsubanji&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarsubanji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysubanji" alt="bhaskarsubanji" /></a> </p>
