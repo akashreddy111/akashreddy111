@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">👋, I'm Akash C </h1>
-<h3 align="center">A passionate Data Scien### Hi there 👋
+<h3 align="center">A passionate Data Scientist Hi there 👋
 
 <h1 align="center">👋, I'm Akash C</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
