@@ -8,9 +8,9 @@
 <p align="left">
 - 👨‍💻 All of my projects are available at GitHub:  https://github.com/akashreddy111
 <p align="left">
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence**
+- 💬 Ask me about Data Science, Machine Learning, Deep Learning, Artificial Intelligence
 <p align="left">
-- 📫 How to reach me **akashreddyc11@gmail.com**
+- 📫 How to reach me akashreddyc11@gmail.com
 
 
 
